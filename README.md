@@ -51,22 +51,7 @@ Onde:
 
 ## Cilindro de Bobinas
 
-╔════════════════════════════════════╗
-║            Cilindro de Bobinas            ║
-║                                                     ║
-║  ──────────────────────────────  ║
-║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
-║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
-║  ──────────────────────────────  ║
-║             Bobinas                               ║
-║                                                     ║
-║  2cm                                               ║
-║  ══════════════════════════════════  ║
-║                                                     ║
-╚════════════════════════════════════╝
-   N=100, d=2cm, L=10cm
-   Pcampo = 1.256W (aprox.)
-
+<img src="https://raw.githubusercontent.com/AstridNielsen-lab/lasercuttersubmarine.github.io/master/lasercutter.jpg" alt="lasercuttersubmarine app">
 
 *Onde:*
 
