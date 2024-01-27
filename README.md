@@ -54,5 +54,3 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
-Lembre-se de substituir `[sua licença aqui]` pela licença real do seu projeto. Se precisar de mais alguma coisa, estou aqui para ajudar!
