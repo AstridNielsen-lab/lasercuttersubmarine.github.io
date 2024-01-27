@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AstridNielsen-lab/lasercuttersubmarine.github.io/master/lasercutter.jpg" alt="lasercuttersubmarine app">
+
 # Laser Cutter Submarine
 
 Bem-vindo ao projeto Laser Cutter Submarine! Este é um projeto empolgante que combina tecnologia submarina com corte a laser magnético. Aqui estão algumas informações úteis sobre o projeto:
