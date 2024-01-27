@@ -47,6 +47,40 @@ Onde:
 - `Q1` e `Q2` são as cargas magnéticas nas esferas.
 - `r` é a distância entre as esferas.
 
+# Arranjo de Bobinas dentro do Cilindro
+
+## Cilindro de Bobinas
+
+╔════════════════════════════════════╗
+║            Cilindro de Bobinas            ║
+║                                                     ║
+║  ──────────────────────────────  ║
+║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+║  ──────────────────────────────  ║
+║             Bobinas                               ║
+║                                                     ║
+║  2cm                                               ║
+║  ══════════════════════════════════  ║
+║                                                     ║
+╚════════════════════════════════════╝
+   N=100, d=2cm, L=10cm
+   Pcampo = 1.256W (aprox.)
+
+
+*Onde:*
+
+- **Bobinas:** Representadas por linhas verticais, indicam as várias bobinas dentro do cilindro.
+
+- **Distância entre as Bobinas:** 2cm.
+
+- **Número de Bobinas (N):** 100.
+
+- **Comprimento Total (L):** 10cm.
+
+- **Potência do Campo Magnético (Pcampo):** 1.256W (aprox.).
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para abrir problemas ou enviar pull requests.
