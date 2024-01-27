@@ -51,7 +51,7 @@ Onde:
 
 ## Cilindro de Bobinas
 
-<img src="https://raw.githubusercontent.com/AstridNielsen-lab/lasercuttersubmarine.github.io/master/lasercutter.jpg" alt="lasercuttersubmarine app">
+<img src="https://raw.githubusercontent.com/AstridNielsen-lab/lasercuttersubmarine.github.io/master/cilindro.jpg" alt="lasercuttersubmarine app">
 
 *Onde:*
 
